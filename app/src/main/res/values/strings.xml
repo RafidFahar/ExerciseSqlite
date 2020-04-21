@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Exercise Sqlite</string>
+    <string name="title">Daftar Kontak</string>
+
+    <string name="titleTambahData">Tambah Data</string>
+    <string name="nama">Nama</string>
+    <string name="noTelp">Nomor Telepon</string>
+    <string name="mail">Email</string>
+    <string name="alamat">Alamat</string>
+    <string name="tikdua">:</string>
+    <string name="save">SIMPAN</string>
+    <string name="dataLengkap">Data Harus Lengkap</string>
+    <string name="errorEmail">Fotmat Email Salah</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_noTelp">Masukkan Nomor Telepon</string>
+    <string name="masukkan_mail">Masukkan Email</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Hapus</string>
+    <string name="deleteConfirm">Apakah Anda Yakin Ingin Menghapus Data</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="titleEditData">Update Data</string>
+    <string name="cancel"> BATAL</string>
+    <string name="ubahData">UBAH DATA</string>
+</resources>
